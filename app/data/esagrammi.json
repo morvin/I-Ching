@@ -1,0 +1,2276 @@
+{
+  "esagrammi": [
+    {
+      "numero": 1,
+      "nome": "1 - Ch'ien",
+      "nomeItaliano": "Il Creativo",
+      "significato": "La Forza Creativa",
+      "trigrammaSuperiore": "Cielo",
+      "trigrammaInferiore": "Cielo",
+      "linee": [
+        "9",
+        "9",
+        "9",
+        "9",
+        "9",
+        "9"
+      ],
+      "descrizione": "L'esagramma 1 - Il Creativo rappresenta La Forza Creativa.",
+      "immagine": "Cielo sopra Cielo",
+      "interpretazione": {
+        "testo": "Il Creativo (Ch'ien) - La Forza Creativa. Questo esagramma combina le qualità di Cielo sopra e Cielo sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang",
+        "Linea 2: Yang",
+        "Linea 3: Yang",
+        "Linea 4: Yang",
+        "Linea 5: Yang",
+        "Linea 6: Yang"
+      ],
+      "consigli": [
+        "Considera l'influenza di Cielo dall'alto",
+        "Considera l'influenza di Cielo dal basso",
+        "Rifletti sul significato di La Forza Creativa"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 64",
+        "Rappresenta l'interazione tra Cielo e Cielo"
+      ]
+    },
+    {
+      "numero": 2,
+      "nome": "2 - K'un",
+      "nomeItaliano": "Il Ricettivo",
+      "significato": "La Forza Ricettiva",
+      "trigrammaSuperiore": "Terra",
+      "trigrammaInferiore": "Terra",
+      "linee": [
+        "6",
+        "6",
+        "6",
+        "6",
+        "6",
+        "6"
+      ],
+      "descrizione": "L'esagramma 2 - Il Ricettivo rappresenta la Forza Ricettiva.",
+      "immagine": "Terra sopra Terra",
+      "interpretazione": {
+        "testo": "Il Ricettivo (K'un) - La Forza Ricettiva. Questo esagramma combina le qualità della Terra sopra e sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin",
+        "Linea 2: Yin",
+        "Linea 3: Yin",
+        "Linea 4: Yin",
+        "Linea 5: Yin",
+        "Linea 6: Yin"
+      ],
+      "consigli": [
+        "Considera l'influenza della Terra dall'alto",
+        "Considera l'influenza della Terra dal basso",
+        "Rifletti sul significato della Forza Ricettiva"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 1",
+        "Rappresenta l'interazione tra Terra e Terra"
+      ]
+    },
+    {
+      "numero": 3,
+      "nome": "3 - Chun",
+      "nomeItaliano": "La Difficoltà Iniziale",
+      "significato": "Il Germogliare",
+      "trigrammaSuperiore": "Acqua",
+      "trigrammaInferiore": "Tuono",
+      "linee": [
+        "9",
+        "6",
+        "6",
+        "6",
+        "9",
+        "6"
+      ],
+      "descrizione": "L'esagramma 3 - La Difficoltà Iniziale rappresenta Il Germogliare.",
+      "immagine": "Acqua sopra Tuono",
+      "interpretazione": {
+        "testo": "La Difficoltà Iniziale (Chun) - Il Germogliare. Questo esagramma combina le qualità di Acqua sopra e Tuono sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang",
+        "Linea 2: Yin",
+        "Linea 3: Yin",
+        "Linea 4: Yin",
+        "Linea 5: Yang",
+        "Linea 6: Yin"
+      ],
+      "consigli": [
+        "Considera l'influenza di Acqua dall'alto",
+        "Considera l'influenza di Tuono dal basso",
+        "Rifletti sul significato di Il Germogliare"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 62",
+        "Rappresenta l'interazione tra Acqua e Tuono"
+      ]
+    },
+    {
+      "numero": 4,
+      "nome": "4 - Meng",
+      "nomeItaliano": "La Stoltezza Giovanile",
+      "significato": "L'Inesperienza",
+      "trigrammaSuperiore": "Montagna",
+      "trigrammaInferiore": "Acqua",
+      "linee": [
+        "6",
+        "9",
+        "6",
+        "6",
+        "6",
+        "9"
+      ],
+      "descrizione": "L'esagramma 4 - La Stoltezza Giovanile rappresenta L'Inesperienza.",
+      "immagine": "Montagna sopra Acqua",
+      "interpretazione": {
+        "testo": "La Stoltezza Giovanile (Meng) - L'Inesperienza. Questo esagramma combina le qualità di Montagna sopra e Acqua sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin",
+        "Linea 2: Yang",
+        "Linea 3: Yin",
+        "Linea 4: Yin",
+        "Linea 5: Yin",
+        "Linea 6: Yang"
+      ],
+      "consigli": [
+        "Considera l'influenza di Montagna dall'alto",
+        "Considera l'influenza di Acqua dal basso",
+        "Rifletti sul significato di L'Inesperienza"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 61",
+        "Rappresenta l'interazione tra Montagna e Acqua"
+      ]
+    },
+    {
+      "numero": 5,
+      "nome": "5 - Hsu",
+      "nomeItaliano": "L'Attesa",
+      "significato": "L'Attesa",
+      "trigrammaSuperiore": "Acqua",
+      "trigrammaInferiore": "Cielo",
+      "linee": [
+        "9",
+        "9",
+        "9",
+        "6",
+        "9",
+        "6"
+      ],
+      "descrizione": "L'esagramma 5 - L'Attesa rappresenta L'Attesa.",
+      "immagine": "Acqua sopra Cielo",
+      "interpretazione": {
+        "testo": "L'Attesa (Hsu) - L'Attesa. Questo esagramma combina le qualità di Acqua sopra e Cielo sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang",
+        "Linea 2: Yang",
+        "Linea 3: Yang",
+        "Linea 4: Yin",
+        "Linea 5: Yang",
+        "Linea 6: Yin"
+      ],
+      "consigli": [
+        "Considera l'influenza di Acqua dall'alto",
+        "Considera l'influenza di Cielo dal basso",
+        "Rifletti sul significato di L'Attesa"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 60",
+        "Rappresenta l'interazione tra Acqua e Cielo"
+      ]
+    },
+    {
+      "numero": 6,
+      "nome": "6 - Sung",
+      "nomeItaliano": "La Lite",
+      "significato": "Il Conflitto",
+      "trigrammaSuperiore": "Cielo",
+      "trigrammaInferiore": "Acqua",
+      "linee": [
+        "6",
+        "9",
+        "6",
+        "9",
+        "9",
+        "9"
+      ],
+      "descrizione": "L'esagramma 6 - La Lite rappresenta Il Conflitto.",
+      "immagine": "Cielo sopra Acqua",
+      "interpretazione": {
+        "testo": "La Lite (Sung) - Il Conflitto. Questo esagramma combina le qualità di Cielo sopra e Acqua sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin",
+        "Linea 2: Yang",
+        "Linea 3: Yin",
+        "Linea 4: Yang",
+        "Linea 5: Yang",
+        "Linea 6: Yang"
+      ],
+      "consigli": [
+        "Considera l'influenza di Cielo dall'alto",
+        "Considera l'influenza di Acqua dal basso",
+        "Rifletti sul significato di Il Conflitto"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 59",
+        "Rappresenta l'interazione tra Cielo e Acqua"
+      ]
+    },
+    {
+      "numero": 7,
+      "nome": "7 - Shih",
+      "nomeItaliano": "L'Esercito",
+      "significato": "La Forza Militare",
+      "trigrammaSuperiore": "Terra",
+      "trigrammaInferiore": "Acqua",
+      "linee": [
+        "6",
+        "9",
+        "6",
+        "6",
+        "6",
+        "6"
+      ],
+      "descrizione": "L'esagramma 7 - L'Esercito rappresenta La Forza Militare.",
+      "immagine": "Terra sopra Acqua",
+      "interpretazione": {
+        "testo": "L'Esercito (Shih) - La Forza Militare. Questo esagramma combina le qualità di Terra sopra e Acqua sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin",
+        "Linea 2: Yang",
+        "Linea 3: Yin",
+        "Linea 4: Yin",
+        "Linea 5: Yin",
+        "Linea 6: Yin"
+      ],
+      "consigli": [
+        "Considera l'influenza di Terra dall'alto",
+        "Considera l'influenza di Acqua dal basso",
+        "Rifletti sul significato di La Forza Militare"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 58",
+        "Rappresenta l'interazione tra Terra e Acqua"
+      ]
+    },
+    {
+      "numero": 8,
+      "nome": "8 - Pi",
+      "nomeItaliano": "L'Unione",
+      "significato": "L'Unione",
+      "trigrammaSuperiore": "Acqua",
+      "trigrammaInferiore": "Terra",
+      "linee": [
+        "6",
+        "6",
+        "6",
+        "6",
+        "9",
+        "6"
+      ],
+      "descrizione": "L'esagramma 8 - L'Unione rappresenta L'Unione.",
+      "immagine": "Acqua sopra Terra",
+      "interpretazione": {
+        "testo": "L'Unione (Pi) - L'Unione. Questo esagramma combina le qualità di Acqua sopra e Terra sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin",
+        "Linea 2: Yin",
+        "Linea 3: Yin",
+        "Linea 4: Yin",
+        "Linea 5: Yang",
+        "Linea 6: Yin"
+      ],
+      "consigli": [
+        "Considera l'influenza di Acqua dall'alto",
+        "Considera l'influenza di Terra dal basso",
+        "Rifletti sul significato di L'Unione"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 57",
+        "Rappresenta l'interazione tra Acqua e Terra"
+      ]
+    },
+    {
+      "numero": 9,
+      "nome": "9 - Hsiao Ch'u",
+      "nomeItaliano": "Il Potere Domestico",
+      "significato": "La Forza Domestica",
+      "trigrammaSuperiore": "Vento",
+      "trigrammaInferiore": "Cielo",
+      "linee": [
+        "9",
+        "9",
+        "9",
+        "9",
+        "9",
+        "6"
+      ],
+      "descrizione": "L'esagramma 9 - Il Potere Domestico rappresenta La Forza Domestica.",
+      "immagine": "Vento sopra Cielo",
+      "interpretazione": {
+        "testo": "Il Potere Domestico (Hsiao Ch'u) - La Forza Domestica. Questo esagramma combina le qualità di Vento sopra e Cielo sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang",
+        "Linea 2: Yang",
+        "Linea 3: Yang",
+        "Linea 4: Yang",
+        "Linea 5: Yang",
+        "Linea 6: Yin"
+      ],
+      "consigli": [
+        "Considera l'influenza di Vento dall'alto",
+        "Considera l'influenza di Cielo dal basso",
+        "Rifletti sul significato di La Forza Domestica"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 56",
+        "Rappresenta l'interazione tra Vento e Cielo"
+      ]
+    },
+    {
+      "numero": 10,
+      "nome": "10 - Lu",
+      "nomeItaliano": "Il Procedere",
+      "significato": "Il Cammino",
+      "trigrammaSuperiore": "Cielo",
+      "trigrammaInferiore": "Lago",
+      "linee": [
+        "6",
+        "9",
+        "9",
+        "9",
+        "9",
+        "9"
+      ],
+      "descrizione": "L'esagramma 10 - Il Procedere rappresenta Il Cammino.",
+      "immagine": "Cielo sopra Lago",
+      "interpretazione": {
+        "testo": "Il Procedere (Lu) - Il Cammino. Questo esagramma combina le qualità di Cielo sopra e Lago sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin",
+        "Linea 2: Yang",
+        "Linea 3: Yang",
+        "Linea 4: Yang",
+        "Linea 5: Yang",
+        "Linea 6: Yang"
+      ],
+      "consigli": [
+        "Considera l'influenza di Cielo dall'alto",
+        "Considera l'influenza di Lago dal basso",
+        "Rifletti sul significato di Il Cammino"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 55",
+        "Rappresenta l'interazione tra Cielo e Lago"
+      ]
+    },
+    {
+      "numero": 11,
+      "nome": "11 - T'ai",
+      "nomeItaliano": "La Pace",
+      "significato": "L'Armonia tra Cielo e Terra",
+      "trigrammaSuperiore": "Terra",
+      "trigrammaInferiore": "Cielo",
+      "linee": ["9", "9", "9", "6", "6", "6"],
+      "descrizione": "L'esagramma 11 - La Pace rappresenta l'armonia perfetta tra Cielo e Terra, un momento di grande prosperità e benessere.",
+      "immagine": "Terra sopra Cielo - La Pace",
+      "interpretazione": {
+        "testo": "La Pace (T'ai) rappresenta un periodo di grande armonia e prosperità. Il Cielo e la Terra sono in perfetto equilibrio, creando condizioni ideali per la crescita e lo sviluppo. È un momento favorevole per intraprendere nuove iniziative e realizzare i propri progetti.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang - L'inizio della pace. Un momento propizio per iniziare nuove imprese.",
+        "Linea 2: Yang - La pace si consolida. È il momento di agire con determinazione.",
+        "Linea 3: Yang - La pace raggiunge il suo apice. Mantieni l'equilibrio e la moderazione.",
+        "Linea 4: Yin - La pace inizia a declinare. Sii cauto e preparati al cambiamento.",
+        "Linea 5: Yin - La pace si trasforma. Adatta le tue strategie alle nuove circostanze.",
+        "Linea 6: Yin - La fine della pace. È tempo di riflettere e prepararsi per il prossimo ciclo."
+      ],
+      "consigli": [
+        "Approfitta del momento favorevole per realizzare i tuoi progetti",
+        "Mantieni l'equilibrio e la moderazione in tutte le tue azioni",
+        "Preparati al cambiamento quando la pace inizia a declinare"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 12",
+        "Rappresenta l'interazione armoniosa tra Cielo e Terra"
+      ]
+    },
+    {
+      "numero": 12,
+      "nome": "12 - P'i",
+      "nomeItaliano": "La Stagnazione",
+      "significato": "Il Blocco",
+      "trigrammaSuperiore": "Terra",
+      "trigrammaInferiore": "Cielo",
+      "linee": [
+        "9",
+        "9",
+        "9",
+        "6",
+        "6",
+        "6"
+      ],
+      "descrizione": "L'esagramma 12 - La Stagnazione rappresenta Il Blocco.",
+      "immagine": "Terra sopra Cielo",
+      "interpretazione": {
+        "testo": "La Stagnazione (P'i) - Il Blocco. Questo esagramma combina le qualità di Terra sopra e Cielo sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang",
+        "Linea 2: Yang",
+        "Linea 3: Yang",
+        "Linea 4: Yin",
+        "Linea 5: Yin",
+        "Linea 6: Yin"
+      ],
+      "consigli": [
+        "Considera l'influenza di Terra dall'alto",
+        "Considera l'influenza di Cielo dal basso",
+        "Rifletti sul significato di Il Blocco"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 53",
+        "Rappresenta l'interazione tra Terra e Cielo"
+      ]
+    },
+    {
+      "numero": 13,
+      "nome": "13 - T'ung Jen",
+      "nomeItaliano": "La Comunione con gli Uomini",
+      "significato": "L'Unione e la Cooperazione",
+      "trigrammaSuperiore": "Cielo",
+      "trigrammaInferiore": "Fuoco",
+      "linee": ["9", "6", "9", "9", "9", "9"],
+      "descrizione": "L'esagramma 13 - La Comunione con gli Uomini rappresenta l'unione e la cooperazione tra le persone, la capacità di lavorare insieme per un obiettivo comune.",
+      "immagine": "Cielo sopra Fuoco - La Comunione",
+      "interpretazione": {
+        "testo": "La Comunione con gli Uomini (T'ung Jen) indica un periodo favorevole per la cooperazione e l'unione. È il momento di unire le forze con altri per raggiungere obiettivi comuni. La chiarezza e la sincerità sono essenziali per mantenere armoniose relazioni.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang - L'inizio della comunione. Apri il tuo cuore agli altri.",
+        "Linea 2: Yin - La comunione si approfondisce. Sii sincero e leale.",
+        "Linea 3: Yang - La comunione si consolida. Mantieni l'equilibrio tra individualità e gruppo.",
+        "Linea 4: Yang - La comunione si espande. Condividi le tue risorse e conoscenze.",
+        "Linea 5: Yang - La comunione raggiunge il suo apice. Guida con saggezza e umiltà.",
+        "Linea 6: Yang - La comunione si trasforma. Adatta le tue relazioni alle nuove circostanze."
+      ],
+      "consigli": [
+        "Cerca opportunità di collaborazione e cooperazione",
+        "Mantieni la sincerità e la trasparenza nelle relazioni",
+        "Condividi le tue risorse e conoscenze con gli altri"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 14",
+        "Rappresenta l'interazione tra Cielo e Fuoco"
+      ]
+    },
+    {
+      "numero": 14,
+      "nome": "14 - Ta Yu",
+      "nomeItaliano": "Il Possesso",
+      "significato": "La Ricchezza",
+      "trigrammaSuperiore": "Fuoco",
+      "trigrammaInferiore": "Cielo",
+      "linee": [
+        "9",
+        "9",
+        "9",
+        "9",
+        "6",
+        "9"
+      ],
+      "descrizione": "L'esagramma 14 - Il Possesso rappresenta La Ricchezza.",
+      "immagine": "Fuoco sopra Cielo",
+      "interpretazione": {
+        "testo": "Il Possesso (Ta Yu) - La Ricchezza. Questo esagramma combina le qualità di Fuoco sopra e Cielo sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang",
+        "Linea 2: Yang",
+        "Linea 3: Yang",
+        "Linea 4: Yang",
+        "Linea 5: Yin",
+        "Linea 6: Yang"
+      ],
+      "consigli": [
+        "Considera l'influenza di Fuoco dall'alto",
+        "Considera l'influenza di Cielo dal basso",
+        "Rifletti sul significato di La Ricchezza"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 51",
+        "Rappresenta l'interazione tra Fuoco e Cielo"
+      ]
+    },
+    {
+      "numero": 15,
+      "nome": "15 - Ch'ien",
+      "nomeItaliano": "La Modestia",
+      "significato": "L'Umiltà e la Moderazione",
+      "trigrammaSuperiore": "Terra",
+      "trigrammaInferiore": "Montagna",
+      "linee": ["6", "6", "9", "6", "6", "6"],
+      "descrizione": "L'esagramma 15 - La Modestia rappresenta l'umiltà e la moderazione, la capacità di mantenere un atteggiamento equilibrato e non pretenzioso.",
+      "immagine": "Terra sopra Montagna - La Modestia",
+      "interpretazione": {
+        "testo": "La Modestia (Ch'ien) indica un periodo in cui è importante mantenere un atteggiamento umile e moderato. La vera grandezza si manifesta attraverso l'umiltà e la capacità di riconoscere i propri limiti. È un momento favorevole per l'apprendimento e la crescita personale.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin - L'inizio della modestia. Sii umile nelle tue azioni.",
+        "Linea 2: Yin - La modestia si approfondisce. Riconosci i tuoi limiti.",
+        "Linea 3: Yang - La modestia si consolida. Mantieni l'equilibrio tra umiltà e fiducia.",
+        "Linea 4: Yin - La modestia si espande. Condividi le tue conoscenze con umiltà.",
+        "Linea 5: Yin - La modestia raggiunge il suo apice. Guida con saggezza e umiltà.",
+        "Linea 6: Yin - La modestia si trasforma. Adatta il tuo atteggiamento alle nuove circostanze."
+      ],
+      "consigli": [
+        "Pratica l'umiltà in tutte le tue azioni",
+        "Riconosci i tuoi limiti e le tue debolezze",
+        "Mantieni un atteggiamento moderato e non pretenzioso"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 16",
+        "Rappresenta l'interazione tra Terra e Montagna"
+      ]
+    },
+    {
+      "numero": 16,
+      "nome": "16 - Yu",
+      "nomeItaliano": "L'Entusiasmo",
+      "significato": "La Gioia",
+      "trigrammaSuperiore": "Tuono",
+      "trigrammaInferiore": "Terra",
+      "linee": [
+        "6",
+        "6",
+        "6",
+        "9",
+        "6",
+        "6"
+      ],
+      "descrizione": "L'esagramma 16 - L'Entusiasmo rappresenta La Gioia.",
+      "immagine": "Tuono sopra Terra",
+      "interpretazione": {
+        "testo": "L'Entusiasmo (Yu) - La Gioia. Questo esagramma combina le qualità di Tuono sopra e Terra sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin",
+        "Linea 2: Yin",
+        "Linea 3: Yin",
+        "Linea 4: Yang",
+        "Linea 5: Yin",
+        "Linea 6: Yin"
+      ],
+      "consigli": [
+        "Considera l'influenza di Tuono dall'alto",
+        "Considera l'influenza di Terra dal basso",
+        "Rifletti sul significato di La Gioia"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 49",
+        "Rappresenta l'interazione tra Tuono e Terra"
+      ]
+    },
+    {
+      "numero": 17,
+      "nome": "17 - Sui",
+      "nomeItaliano": "Il Seguire",
+      "significato": "L'Adattamento e il Cambiamento",
+      "trigrammaSuperiore": "Lago",
+      "trigrammaInferiore": "Tuono",
+      "linee": ["9", "6", "6", "9", "9", "6"],
+      "descrizione": "L'esagramma 17 - Il Seguire rappresenta la capacità di adattarsi al cambiamento e seguire il flusso naturale degli eventi.",
+      "immagine": "Lago sopra Tuono - Il Seguire",
+      "interpretazione": {
+        "testo": "Il Seguire (Sui) indica un periodo in cui è importante adattarsi al cambiamento e seguire il flusso naturale degli eventi. La flessibilità e l'apertura mentale sono essenziali per navigare con successo attraverso i cambiamenti.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang - L'inizio del seguire. Sii aperto al cambiamento.",
+        "Linea 2: Yin - Il seguire si approfondisce. Adatta le tue strategie.",
+        "Linea 3: Yin - Il seguire si consolida. Mantieni la flessibilità.",
+        "Linea 4: Yang - Il seguire si espande. Guida il cambiamento con saggezza.",
+        "Linea 5: Yang - Il seguire raggiunge il suo apice. Mantieni la direzione.",
+        "Linea 6: Yin - Il seguire si trasforma. Adatta le tue azioni alle nuove circostanze."
+      ],
+      "consigli": [
+        "Sii flessibile e aperto al cambiamento",
+        "Segui il flusso naturale degli eventi",
+        "Adatta le tue strategie alle nuove circostanze"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 18",
+        "Rappresenta l'interazione tra Lago e Tuono"
+      ]
+    },
+    {
+      "numero": 18,
+      "nome": "18 - Ku",
+      "nomeItaliano": "Il Lavoro",
+      "significato": "La Corruzione",
+      "trigrammaSuperiore": "Montagna",
+      "trigrammaInferiore": "Vento",
+      "linee": [
+        "9",
+        "9",
+        "6",
+        "6",
+        "6",
+        "9"
+      ],
+      "descrizione": "L'esagramma 18 - Il Lavoro rappresenta La Corruzione.",
+      "immagine": "Montagna sopra Vento",
+      "interpretazione": {
+        "testo": "Il Lavoro (Ku) - La Corruzione. Questo esagramma combina le qualità di Montagna sopra e Vento sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang",
+        "Linea 2: Yang",
+        "Linea 3: Yin",
+        "Linea 4: Yin",
+        "Linea 5: Yin",
+        "Linea 6: Yang"
+      ],
+      "consigli": [
+        "Considera l'influenza di Montagna dall'alto",
+        "Considera l'influenza di Vento dal basso",
+        "Rifletti sul significato di La Corruzione"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 47",
+        "Rappresenta l'interazione tra Montagna e Vento"
+      ]
+    },
+    {
+      "numero": 19,
+      "nome": "19 - Lin",
+      "nomeItaliano": "L'Avvicinamento",
+      "significato": "La Crescita e lo Sviluppo",
+      "trigrammaSuperiore": "Terra",
+      "trigrammaInferiore": "Lago",
+      "linee": ["9", "9", "6", "6", "6", "6"],
+      "descrizione": "L'esagramma 19 - L'Avvicinamento rappresenta un periodo di crescita e sviluppo, un momento favorevole per avanzare e progredire.",
+      "immagine": "Terra sopra Lago - L'Avvicinamento",
+      "interpretazione": {
+        "testo": "L'Avvicinamento (Lin) indica un periodo favorevole per la crescita e lo sviluppo. È il momento di avanzare con fiducia e determinazione, mantenendo sempre un atteggiamento positivo e costruttivo.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang - L'inizio dell'avvicinamento. Inizia con entusiasmo.",
+        "Linea 2: Yang - L'avvicinamento si approfondisce. Mantieni la direzione.",
+        "Linea 3: Yin - L'avvicinamento si consolida. Sii paziente e perseverante.",
+        "Linea 4: Yin - L'avvicinamento si espande. Condividi i tuoi progressi.",
+        "Linea 5: Yin - L'avvicinamento raggiunge il suo apice. Celebra i successi.",
+        "Linea 6: Yin - L'avvicinamento si trasforma. Prepara il prossimo passo."
+      ],
+      "consigli": [
+        "Avanza con fiducia e determinazione",
+        "Mantieni un atteggiamento positivo e costruttivo",
+        "Celebra i tuoi progressi e successi"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 20",
+        "Rappresenta l'interazione tra Terra e Lago"
+      ]
+    },
+    {
+      "numero": 20,
+      "nome": "20 - Kuan",
+      "nomeItaliano": "La Contemplazione",
+      "significato": "L'Osservazione",
+      "trigrammaSuperiore": "Vento",
+      "trigrammaInferiore": "Terra",
+      "linee": [
+        "6",
+        "6",
+        "6",
+        "9",
+        "9",
+        "6"
+      ],
+      "descrizione": "L'esagramma 20 - La Contemplazione rappresenta L'Osservazione.",
+      "immagine": "Vento sopra Terra",
+      "interpretazione": {
+        "testo": "La Contemplazione (Kuan) - L'Osservazione. Questo esagramma combina le qualità di Vento sopra e Terra sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin",
+        "Linea 2: Yin",
+        "Linea 3: Yin",
+        "Linea 4: Yang",
+        "Linea 5: Yang",
+        "Linea 6: Yin"
+      ],
+      "consigli": [
+        "Considera l'influenza di Vento dall'alto",
+        "Considera l'influenza di Terra dal basso",
+        "Rifletti sul significato di L'Osservazione"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 45",
+        "Rappresenta l'interazione tra Vento e Terra"
+      ]
+    },
+    {
+      "numero": 21,
+      "nome": "21 - Shih Ho",
+      "nomeItaliano": "Il Morso che Spezza",
+      "significato": "La Decisione e la Risoluzione",
+      "trigrammaSuperiore": "Fuoco",
+      "trigrammaInferiore": "Tuono",
+      "linee": ["9", "6", "6", "9", "6", "9"],
+      "descrizione": "L'esagramma 21 - Il Morso che Spezza rappresenta la capacità di prendere decisioni decisive e risolvere i problemi con determinazione.",
+      "immagine": "Fuoco sopra Tuono - Il Morso che Spezza",
+      "interpretazione": {
+        "testo": "Il Morso che Spezza (Shih Ho) indica un periodo in cui è necessario prendere decisioni decisive e risolvere i problemi con determinazione. La chiarezza e la fermezza sono essenziali per superare gli ostacoli.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang - L'inizio della decisione. Sii deciso e determinato.",
+        "Linea 2: Yin - La decisione si approfondisce. Valuta attentamente le opzioni.",
+        "Linea 3: Yin - La decisione si consolida. Mantieni la fermezza.",
+        "Linea 4: Yang - La decisione si espande. Agisci con determinazione.",
+        "Linea 5: Yin - La decisione raggiunge il suo apice. Mantieni la direzione.",
+        "Linea 6: Yang - La decisione si trasforma. Prepara il prossimo passo."
+      ],
+      "consigli": [
+        "Sii deciso e determinato nelle tue azioni",
+        "Risolvi i problemi con chiarezza e fermezza",
+        "Mantieni la direzione una volta presa la decisione"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 22",
+        "Rappresenta l'interazione tra Fuoco e Tuono"
+      ]
+    },
+    {
+      "numero": 22,
+      "nome": "22 - Pi",
+      "nomeItaliano": "L'Adornamento",
+      "significato": "La Bellezza",
+      "trigrammaSuperiore": "Montagna",
+      "trigrammaInferiore": "Fuoco",
+      "linee": [
+        "9",
+        "6",
+        "9",
+        "6",
+        "6",
+        "9"
+      ],
+      "descrizione": "L'esagramma 22 - L'Adornamento rappresenta La Bellezza.",
+      "immagine": "Montagna sopra Fuoco",
+      "interpretazione": {
+        "testo": "L'Adornamento (Pi) - La Bellezza. Questo esagramma combina le qualità di Montagna sopra e Fuoco sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang",
+        "Linea 2: Yin",
+        "Linea 3: Yang",
+        "Linea 4: Yin",
+        "Linea 5: Yin",
+        "Linea 6: Yang"
+      ],
+      "consigli": [
+        "Considera l'influenza di Montagna dall'alto",
+        "Considera l'influenza di Fuoco dal basso",
+        "Rifletti sul significato di La Bellezza"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 43",
+        "Rappresenta l'interazione tra Montagna e Fuoco"
+      ]
+    },
+    {
+      "numero": 23,
+      "nome": "23 - Po",
+      "nomeItaliano": "Lo Spezzare",
+      "significato": "Il Declino e la Decadenza",
+      "trigrammaSuperiore": "Montagna",
+      "trigrammaInferiore": "Terra",
+      "linee": ["6", "6", "6", "6", "6", "9"],
+      "descrizione": "L'esagramma 23 - Lo Spezzare rappresenta un periodo di declino e decadenza, un momento in cui è necessario accettare la fine di un ciclo.",
+      "immagine": "Montagna sopra Terra - Lo Spezzare",
+      "interpretazione": {
+        "testo": "Lo Spezzare (Po) indica un periodo di declino e decadenza. È il momento di accettare la fine di un ciclo e prepararsi per un nuovo inizio. La saggezza sta nel riconoscere quando è il momento di lasciare andare.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin - L'inizio dello spezzare. Riconosci i segni del declino.",
+        "Linea 2: Yin - Lo spezzare si approfondisce. Accetta il cambiamento.",
+        "Linea 3: Yin - Lo spezzare si consolida. Lascia andare il passato.",
+        "Linea 4: Yin - Lo spezzare si espande. Prepara il terreno per il nuovo.",
+        "Linea 5: Yin - Lo spezzare raggiunge il suo apice. Mantieni la saggezza.",
+        "Linea 6: Yang - Lo spezzare si trasforma. Inizia un nuovo ciclo."
+      ],
+      "consigli": [
+        "Accetta la fine di un ciclo con saggezza",
+        "Prepara il terreno per un nuovo inizio",
+        "Mantieni la saggezza durante il periodo di declino"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 24",
+        "Rappresenta l'interazione tra Montagna e Terra"
+      ]
+    },
+    {
+      "numero": 24,
+      "nome": "24 - Fu",
+      "nomeItaliano": "Il Ritorno",
+      "significato": "Il Ritorno",
+      "trigrammaSuperiore": "Terra",
+      "trigrammaInferiore": "Montagna",
+      "linee": [
+        "6",
+        "6",
+        "9",
+        "6",
+        "6",
+        "6"
+      ],
+      "descrizione": "L'esagramma 24 - Il Ritorno rappresenta Il Ritorno.",
+      "immagine": "Terra sopra Montagna",
+      "interpretazione": {
+        "testo": "Il Ritorno (Fu) - Il Ritorno. Questo esagramma combina le qualità di Terra sopra e Montagna sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin",
+        "Linea 2: Yin",
+        "Linea 3: Yang",
+        "Linea 4: Yin",
+        "Linea 5: Yin",
+        "Linea 6: Yin"
+      ],
+      "consigli": [
+        "Considera l'influenza di Terra dall'alto",
+        "Considera l'influenza di Montagna dal basso",
+        "Rifletti sul significato di Il Ritorno"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 41",
+        "Rappresenta l'interazione tra Terra e Montagna"
+      ]
+    },
+    {
+      "numero": 25,
+      "nome": "25 - Wu Wang",
+      "nomeItaliano": "L'Innocenza",
+      "significato": "La Spontaneità e la Purezza",
+      "trigrammaSuperiore": "Cielo",
+      "trigrammaInferiore": "Tuono",
+      "linee": ["9", "6", "6", "9", "9", "9"],
+      "descrizione": "L'esagramma 25 - L'Innocenza rappresenta la spontaneità e la purezza, la capacità di agire in modo naturale e sincero.",
+      "immagine": "Cielo sopra Tuono - L'Innocenza",
+      "interpretazione": {
+        "testo": "L'Innocenza (Wu Wang) indica un periodo in cui è importante agire con spontaneità e purezza. La sincerità e l'autenticità sono essenziali per mantenere l'armonia e la pace interiore.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang - L'inizio dell'innocenza. Agisci con spontaneità.",
+        "Linea 2: Yin - L'innocenza si approfondisce. Mantieni la purezza.",
+        "Linea 3: Yin - L'innocenza si consolida. Sii sincero e autentico.",
+        "Linea 4: Yang - L'innocenza si espande. Condividi la tua purezza.",
+        "Linea 5: Yang - L'innocenza raggiunge il suo apice. Mantieni l'armonia.",
+        "Linea 6: Yang - L'innocenza si trasforma. Adatta la tua spontaneità."
+      ],
+      "consigli": [
+        "Agisci con spontaneità e purezza",
+        "Mantieni la sincerità e l'autenticità",
+        "Condividi la tua purezza con gli altri"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 26",
+        "Rappresenta l'interazione tra Cielo e Tuono"
+      ]
+    },
+    {
+      "numero": 26,
+      "nome": "26 - Ta Ch'u",
+      "nomeItaliano": "Il Potere",
+      "significato": "La Forza",
+      "trigrammaSuperiore": "Montagna",
+      "trigrammaInferiore": "Cielo",
+      "linee": [
+        "9",
+        "9",
+        "9",
+        "6",
+        "6",
+        "9"
+      ],
+      "descrizione": "L'esagramma 26 - Il Potere rappresenta La Forza.",
+      "immagine": "Montagna sopra Cielo",
+      "interpretazione": {
+        "testo": "Il Potere (Ta Ch'u) - La Forza. Questo esagramma combina le qualità di Montagna sopra e Cielo sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang",
+        "Linea 2: Yang",
+        "Linea 3: Yang",
+        "Linea 4: Yin",
+        "Linea 5: Yin",
+        "Linea 6: Yang"
+      ],
+      "consigli": [
+        "Considera l'influenza di Montagna dall'alto",
+        "Considera l'influenza di Cielo dal basso",
+        "Rifletti sul significato di La Forza"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 39",
+        "Rappresenta l'interazione tra Montagna e Cielo"
+      ]
+    },
+    {
+      "numero": 27,
+      "nome": "27 - I",
+      "nomeItaliano": "L'Alimentazione",
+      "significato": "La Nutrizione e la Crescita",
+      "trigrammaSuperiore": "Montagna",
+      "trigrammaInferiore": "Tuono",
+      "linee": ["9", "6", "6", "6", "6", "9"],
+      "descrizione": "L'esagramma 27 - L'Alimentazione rappresenta la nutrizione e la crescita, sia fisica che spirituale.",
+      "immagine": "Montagna sopra Tuono - L'Alimentazione",
+      "interpretazione": {
+        "testo": "L'Alimentazione (I) indica un periodo favorevole per la nutrizione e la crescita. È il momento di prendersi cura di sé e degli altri, di nutrire il corpo e lo spirito.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang - L'inizio dell'alimentazione. Inizia a nutrirti.",
+        "Linea 2: Yin - L'alimentazione si approfondisce. Scegli con saggezza.",
+        "Linea 3: Yin - L'alimentazione si consolida. Mantieni l'equilibrio.",
+        "Linea 4: Yin - L'alimentazione si espande. Condividi le tue risorse.",
+        "Linea 5: Yin - L'alimentazione raggiunge il suo apice. Celebra l'abbondanza.",
+        "Linea 6: Yang - L'alimentazione si trasforma. Prepara il prossimo ciclo."
+      ],
+      "consigli": [
+        "Nutri il tuo corpo e il tuo spirito",
+        "Scegli con saggezza ciò che ti nutre",
+        "Condividi le tue risorse con gli altri"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 28",
+        "Rappresenta l'interazione tra Montagna e Tuono"
+      ]
+    },
+    {
+      "numero": 28,
+      "nome": "28 - Ta Kuo",
+      "nomeItaliano": "Il Passaggio",
+      "significato": "Il Superamento",
+      "trigrammaSuperiore": "Tuono",
+      "trigrammaInferiore": "Montagna",
+      "linee": [
+        "6",
+        "6",
+        "9",
+        "9",
+        "6",
+        "6"
+      ],
+      "descrizione": "L'esagramma 28 - Il Passaggio rappresenta Il Superamento.",
+      "immagine": "Tuono sopra Montagna",
+      "interpretazione": {
+        "testo": "Il Passaggio (Ta Kuo) - Il Superamento. Questo esagramma combina le qualità di Tuono sopra e Montagna sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin",
+        "Linea 2: Yin",
+        "Linea 3: Yang",
+        "Linea 4: Yang",
+        "Linea 5: Yin",
+        "Linea 6: Yin"
+      ],
+      "consigli": [
+        "Considera l'influenza di Tuono dall'alto",
+        "Considera l'influenza di Montagna dal basso",
+        "Rifletti sul significato di Il Superamento"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 37",
+        "Rappresenta l'interazione tra Tuono e Montagna"
+      ]
+    },
+    {
+      "numero": 29,
+      "nome": "29 - K'an",
+      "nomeItaliano": "L'Abisso",
+      "significato": "Il Pericolo e la Profondità",
+      "trigrammaSuperiore": "Acqua",
+      "trigrammaInferiore": "Acqua",
+      "linee": ["6", "9", "6", "6", "9", "6"],
+      "descrizione": "L'esagramma 29 - L'Abisso rappresenta il pericolo e la profondità, un momento di sfida e trasformazione.",
+      "immagine": "Acqua sopra Acqua - L'Abisso",
+      "interpretazione": {
+        "testo": "L'Abisso (K'an) indica un periodo di pericolo e profondità. È il momento di affrontare le sfide con coraggio e saggezza, di navigare attraverso le difficoltà mantenendo la calma e la determinazione.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin - L'inizio dell'abisso. Riconosci il pericolo.",
+        "Linea 2: Yang - L'abisso si approfondisce. Affronta la sfida.",
+        "Linea 3: Yin - L'abisso si consolida. Mantieni la calma.",
+        "Linea 4: Yin - L'abisso si espande. Naviga con saggezza.",
+        "Linea 5: Yang - L'abisso raggiunge il suo apice. Mantieni la direzione.",
+        "Linea 6: Yin - L'abisso si trasforma. Prepara il prossimo passo."
+      ],
+      "consigli": [
+        "Affronta le sfide con coraggio e saggezza",
+        "Mantieni la calma e la determinazione",
+        "Naviga attraverso le difficoltà con attenzione"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 30",
+        "Rappresenta l'interazione tra Acqua e Acqua"
+      ]
+    },
+    {
+      "numero": 30,
+      "nome": "30 - Li",
+      "nomeItaliano": "L'Adesione",
+      "significato": "La Luce e l'Illuminazione",
+      "trigrammaSuperiore": "Fuoco",
+      "trigrammaInferiore": "Fuoco",
+      "linee": ["9", "6", "9", "9", "6", "9"],
+      "descrizione": "L'esagramma 30 - L'Adesione rappresenta la luce e l'illuminazione, un momento di chiarezza e comprensione.",
+      "immagine": "Fuoco sopra Fuoco - L'Adesione",
+      "interpretazione": {
+        "testo": "L'Adesione (Li) indica un periodo di luce e illuminazione. È il momento di vedere chiaramente, di comprendere profondamente e di agire con saggezza e chiarezza.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang - L'inizio dell'adesione. Inizia a vedere chiaramente.",
+        "Linea 2: Yin - L'adesione si approfondisce. Mantieni la chiarezza.",
+        "Linea 3: Yang - L'adesione si consolida. Agisci con saggezza.",
+        "Linea 4: Yang - L'adesione si espande. Illumina il cammino.",
+        "Linea 5: Yin - L'adesione raggiunge il suo apice. Mantieni la direzione.",
+        "Linea 6: Yang - L'adesione si trasforma. Prepara il prossimo passo."
+      ],
+      "consigli": [
+        "Vedi chiaramente e comprendi profondamente",
+        "Agisci con saggezza e chiarezza",
+        "Illumina il cammino per gli altri"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 29",
+        "Rappresenta l'interazione tra Fuoco e Fuoco"
+      ]
+    },
+    {
+      "numero": 31,
+      "nome": "31 - Hsien",
+      "nomeItaliano": "L'Influenza",
+      "significato": "La Reciprocità e l'Attrazione",
+      "trigrammaSuperiore": "Lago",
+      "trigrammaInferiore": "Montagna",
+      "linee": ["6", "6", "9", "9", "9", "6"],
+      "descrizione": "L'esagramma 31 - L'Influenza rappresenta la reciproca attrazione e l'influenza tra le persone, un momento di connessione profonda.",
+      "immagine": "Lago sopra Montagna - L'Influenza",
+      "interpretazione": {
+        "testo": "L'Influenza (Hsien) indica un periodo di reciproca attrazione e connessione. È il momento di essere aperti all'influenza degli altri e di influenzare positivamente chi ci circonda. La sensibilità e l'empatia sono essenziali per creare relazioni armoniose.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin - L'inizio dell'influenza. Sii ricettivo e aperto.",
+        "Linea 2: Yin - L'influenza si approfondisce. Mantieni l'equilibrio.",
+        "Linea 3: Yang - L'influenza si consolida. Agisci con sensibilità.",
+        "Linea 4: Yang - L'influenza si espande. Condividi le tue energie.",
+        "Linea 5: Yang - L'influenza raggiunge il suo apice. Guida con empatia.",
+        "Linea 6: Yin - L'influenza si trasforma. Adatta le tue connessioni."
+      ],
+      "consigli": [
+        "Sii aperto all'influenza degli altri",
+        "Influenza positivamente chi ti circonda",
+        "Mantieni l'equilibrio nelle relazioni"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 32",
+        "Rappresenta l'interazione tra Lago e Montagna"
+      ]
+    },
+    {
+      "numero": 32,
+      "nome": "32 - Heng",
+      "nomeItaliano": "La Durata",
+      "significato": "La Perseveranza e la Costanza",
+      "trigrammaSuperiore": "Tuono",
+      "trigrammaInferiore": "Vento",
+      "linee": ["6", "9", "9", "9", "6", "6"],
+      "descrizione": "L'esagramma 32 - La Durata rappresenta la perseveranza e la costanza, un momento di impegno duraturo.",
+      "immagine": "Tuono sopra Vento - La Durata",
+      "interpretazione": {
+        "testo": "La Durata (Heng) indica un periodo di perseveranza e costanza. È il momento di mantenere l'impegno, di essere costanti nelle proprie azioni e di costruire qualcosa di duraturo.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin - L'inizio della durata. Inizia con impegno.",
+        "Linea 2: Yang - La durata si approfondisce. Mantieni la costanza.",
+        "Linea 3: Yang - La durata si consolida. Agisci con determinazione.",
+        "Linea 4: Yang - La durata si espande. Costruisci le fondamenta.",
+        "Linea 5: Yin - La durata raggiunge il suo apice. Celebra la perseveranza.",
+        "Linea 6: Yin - La durata si trasforma. Prepara il futuro."
+      ],
+      "consigli": [
+        "Mantieni l'impegno e la costanza",
+        "Costruisci qualcosa di duraturo",
+        "Celebra la perseveranza"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 31",
+        "Rappresenta l'interazione tra Tuono e Vento"
+      ]
+    },
+    {
+      "numero": 33,
+      "nome": "33 - Tun",
+      "nomeItaliano": "La Ritirata",
+      "significato": "Il Ripiegamento Strategico",
+      "trigrammaSuperiore": "Cielo",
+      "trigrammaInferiore": "Montagna",
+      "linee": ["6", "6", "9", "9", "9", "9"],
+      "descrizione": "L'esagramma 33 - La Ritirata rappresenta il ripiegamento strategico, la saggezza di saper indietreggiare al momento giusto.",
+      "immagine": "Cielo sopra Montagna - La Ritirata",
+      "interpretazione": {
+        "testo": "La Ritirata (Tun) indica un periodo in cui è saggio ritirarsi strategicamente. È il momento di preservare le proprie energie e risorse, di fare un passo indietro per guadagnare una prospettiva più ampia. La saggezza sta nel saper riconoscere quando è il momento di ritirarsi.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin - L'inizio della ritirata. Riconosci il momento.",
+        "Linea 2: Yin - La ritirata si approfondisce. Mantieni la calma.",
+        "Linea 3: Yang - La ritirata si consolida. Agisci con saggezza.",
+        "Linea 4: Yang - La ritirata si espande. Preserva le tue energie.",
+        "Linea 5: Yang - La ritirata raggiunge il suo apice. Mantieni la direzione.",
+        "Linea 6: Yang - La ritirata si trasforma. Prepara il prossimo passo."
+      ],
+      "consigli": [
+        "Riconosci quando è il momento di ritirarsi",
+        "Preserva le tue energie e risorse",
+        "Mantieni una prospettiva più ampia"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 34",
+        "Rappresenta l'interazione tra Cielo e Montagna"
+      ]
+    },
+    {
+      "numero": 34,
+      "nome": "34 - Ta Chuang",
+      "nomeItaliano": "La Forza del Grande",
+      "significato": "La Potenza e la Determinazione",
+      "trigrammaSuperiore": "Tuono",
+      "trigrammaInferiore": "Cielo",
+      "linee": ["9", "9", "9", "9", "6", "6"],
+      "descrizione": "L'esagramma 34 - La Forza del Grande rappresenta la potenza e la determinazione, un momento di grande energia e forza.",
+      "immagine": "Tuono sopra Cielo - La Forza del Grande",
+      "interpretazione": {
+        "testo": "La Forza del Grande (Ta Chuang) indica un periodo di grande potenza e determinazione. È il momento di utilizzare la propria forza con saggezza, di agire con determinazione e di realizzare grandi imprese.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang - L'inizio della forza. Inizia con energia.",
+        "Linea 2: Yang - La forza si approfondisce. Mantieni la direzione.",
+        "Linea 3: Yang - La forza si consolida. Agisci con determinazione.",
+        "Linea 4: Yang - La forza si espande. Realizza grandi imprese.",
+        "Linea 5: Yin - La forza raggiunge il suo apice. Mantieni il controllo.",
+        "Linea 6: Yin - La forza si trasforma. Prepara il prossimo passo."
+      ],
+      "consigli": [
+        "Utilizza la tua forza con saggezza",
+        "Agisci con determinazione",
+        "Realizza grandi imprese"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 33",
+        "Rappresenta l'interazione tra Tuono e Cielo"
+      ]
+    },
+    {
+      "numero": 35,
+      "nome": "35 - Chin",
+      "nomeItaliano": "Il Progresso",
+      "significato": "L'Avanzamento e lo Sviluppo",
+      "trigrammaSuperiore": "Fuoco",
+      "trigrammaInferiore": "Terra",
+      "linee": ["6", "6", "9", "9", "6", "9"],
+      "descrizione": "L'esagramma 35 - Il Progresso rappresenta l'avanzamento e lo sviluppo, un momento favorevole per progredire.",
+      "immagine": "Fuoco sopra Terra - Il Progresso",
+      "interpretazione": {
+        "testo": "Il Progresso (Chin) indica un periodo favorevole per l'avanzamento e lo sviluppo. È il momento di procedere con fiducia e determinazione, di illuminare il cammino con la chiarezza della propria visione.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin - L'inizio del progresso. Inizia con umiltà.",
+        "Linea 2: Yin - Il progresso si approfondisce. Mantieni la direzione.",
+        "Linea 3: Yang - Il progresso si consolida. Agisci con determinazione.",
+        "Linea 4: Yang - Il progresso si espande. Illumina il cammino.",
+        "Linea 5: Yin - Il progresso raggiunge il suo apice. Celebra i successi.",
+        "Linea 6: Yang - Il progresso si trasforma. Prepara il prossimo passo."
+      ],
+      "consigli": [
+        "Procedi con fiducia e determinazione",
+        "Illumina il cammino con la tua visione",
+        "Celebra i tuoi progressi e successi"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 30",
+        "Rappresenta l'interazione tra Fuoco e Terra"
+      ]
+    },
+    {
+      "numero": 36,
+      "nome": "36 - Ming I",
+      "nomeItaliano": "L'Oscurità della Luce",
+      "significato": "La Lesione e la Difficoltà",
+      "trigrammaSuperiore": "Terra",
+      "trigrammaInferiore": "Fuoco",
+      "linee": ["9", "6", "9", "6", "6", "6"],
+      "descrizione": "L'esagramma 36 - L'Oscurità della Luce rappresenta la lesione e la difficoltà, un momento di sfida e prova.",
+      "immagine": "Terra sopra Fuoco - L'Oscurità della Luce",
+      "interpretazione": {
+        "testo": "L'Oscurità della Luce (Ming I) indica un periodo di lesione e difficoltà. È il momento di affrontare le sfide con coraggio, di mantenere la propria integrità e di trovare la luce nell'oscurità.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang - L'inizio dell'oscurità. Riconosci la sfida.",
+        "Linea 2: Yin - L'oscurità si approfondisce. Mantieni l'integrità.",
+        "Linea 3: Yang - L'oscurità si consolida. Agisci con coraggio.",
+        "Linea 4: Yin - L'oscurità si espande. Cerca la luce.",
+        "Linea 5: Yin - L'oscurità raggiunge il suo apice. Mantieni la speranza.",
+        "Linea 6: Yin - L'oscurità si trasforma. Prepara il risveglio."
+      ],
+      "consigli": [
+        "Affronta le sfide con coraggio",
+        "Mantieni la tua integrità",
+        "Trova la luce nell'oscurità"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 35",
+        "Rappresenta l'interazione tra Terra e Fuoco"
+      ]
+    },
+    {
+      "numero": 37,
+      "nome": "37 - Chia Jen",
+      "nomeItaliano": "La Famiglia",
+      "significato": "L'Unità e l'Armonia Familiare",
+      "trigrammaSuperiore": "Vento",
+      "trigrammaInferiore": "Fuoco",
+      "linee": ["9", "6", "9", "6", "9", "9"],
+      "descrizione": "L'esagramma 37 - La Famiglia rappresenta l'unità e l'armonia familiare, la capacità di creare un ambiente domestico armonioso.",
+      "immagine": "Vento sopra Fuoco - La Famiglia",
+      "interpretazione": {
+        "testo": "La Famiglia (Chia Jen) indica un periodo in cui è importante creare e mantenere l'armonia familiare. È il momento di nutrire le relazioni domestiche, di creare un ambiente di supporto e comprensione reciproca.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang - L'inizio della famiglia. Stabilisci le fondamenta.",
+        "Linea 2: Yin - La famiglia si approfondisce. Mantieni l'equilibrio.",
+        "Linea 3: Yang - La famiglia si consolida. Guida con saggezza.",
+        "Linea 4: Yin - La famiglia si espande. Condividi le responsabilità.",
+        "Linea 5: Yang - La famiglia raggiunge il suo apice. Celebra l'unità.",
+        "Linea 6: Yang - La famiglia si trasforma. Adatta le tue relazioni."
+      ],
+      "consigli": [
+        "Crea un ambiente domestico armonioso",
+        "Nutri le relazioni familiari",
+        "Mantieni l'equilibrio e l'unità"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 38",
+        "Rappresenta l'interazione tra Vento e Fuoco"
+      ]
+    },
+    {
+      "numero": 38,
+      "nome": "38 - K'uei",
+      "nomeItaliano": "L'Opposizione",
+      "significato": "Il Contrasto e la Diversità",
+      "trigrammaSuperiore": "Fuoco",
+      "trigrammaInferiore": "Lago",
+      "linee": ["9", "9", "6", "9", "6", "9"],
+      "descrizione": "L'esagramma 38 - L'Opposizione rappresenta il contrasto e la diversità, un momento di differenze e opposizioni.",
+      "immagine": "Fuoco sopra Lago - L'Opposizione",
+      "interpretazione": {
+        "testo": "L'Opposizione (K'uei) indica un periodo di contrasto e diversità. È il momento di riconoscere e rispettare le differenze, di trovare armonia nelle opposizioni e di creare equilibrio tra elementi contrastanti.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang - L'inizio dell'opposizione. Riconosci le differenze.",
+        "Linea 2: Yang - L'opposizione si approfondisce. Mantieni l'equilibrio.",
+        "Linea 3: Yin - L'opposizione si consolida. Agisci con saggezza.",
+        "Linea 4: Yang - L'opposizione si espande. Crea armonia.",
+        "Linea 5: Yin - L'opposizione raggiunge il suo apice. Mantieni la direzione.",
+        "Linea 6: Yang - L'opposizione si trasforma. Prepara l'integrazione."
+      ],
+      "consigli": [
+        "Riconosci e rispetta le differenze",
+        "Trova armonia nelle opposizioni",
+        "Crea equilibrio tra elementi contrastanti"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 37",
+        "Rappresenta l'interazione tra Fuoco e Lago"
+      ]
+    },
+    {
+      "numero": 39,
+      "nome": "39 - Chien",
+      "nomeItaliano": "L'Impedimento",
+      "significato": "La Difficoltà e l'Ostacolo",
+      "trigrammaSuperiore": "Acqua",
+      "trigrammaInferiore": "Montagna",
+      "linee": ["6", "6", "9", "6", "9", "6"],
+      "descrizione": "L'esagramma 39 - L'Impedimento rappresenta la difficoltà e l'ostacolo, un momento di sfida che richiede perseveranza.",
+      "immagine": "Acqua sopra Montagna - L'Impedimento",
+      "interpretazione": {
+        "testo": "L'Impedimento (Chien) indica un periodo di difficoltà e ostacoli. È il momento di affrontare le sfide con perseveranza e saggezza, di trovare modi creativi per superare gli ostacoli.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin - L'inizio dell'impedimento. Riconosci l'ostacolo.",
+        "Linea 2: Yin - L'impedimento si approfondisce. Mantieni la calma.",
+        "Linea 3: Yang - L'impedimento si consolida. Agisci con determinazione.",
+        "Linea 4: Yin - L'impedimento si espande. Cerca soluzioni creative.",
+        "Linea 5: Yang - L'impedimento raggiunge il suo apice. Mantieni la direzione.",
+        "Linea 6: Yin - L'impedimento si trasforma. Prepara il prossimo passo."
+      ],
+      "consigli": [
+        "Affronta le difficoltà con perseveranza",
+        "Cerca soluzioni creative agli ostacoli",
+        "Mantieni la calma e la determinazione"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 40",
+        "Rappresenta l'interazione tra Acqua e Montagna"
+      ]
+    },
+    {
+      "numero": 40,
+      "nome": "40 - Hsieh",
+      "nomeItaliano": "La Liberazione",
+      "significato": "La Soluzione e il Rilascio",
+      "trigrammaSuperiore": "Tuono",
+      "trigrammaInferiore": "Acqua",
+      "linee": ["6", "9", "6", "9", "6", "6"],
+      "descrizione": "L'esagramma 40 - La Liberazione rappresenta la soluzione e il rilascio, un momento di liberazione dalle costrizioni.",
+      "immagine": "Tuono sopra Acqua - La Liberazione",
+      "interpretazione": {
+        "testo": "La Liberazione (Hsieh) - La Soluzione. Questo esagramma combina le qualità di Acqua sopra e Montagna sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin - L'inizio della liberazione. Riconosci le costrizioni.",
+        "Linea 2: Yang - La liberazione si approfondisce. Mantieni la direzione.",
+        "Linea 3: Yin - La liberazione si consolida. Agisci con saggezza.",
+        "Linea 4: Yang - La liberazione si espande. Risolvi i problemi.",
+        "Linea 5: Yin - La liberazione raggiunge il suo apice. Mantieni la chiarezza.",
+        "Linea 6: Yin - La liberazione si trasforma. Prepara il nuovo inizio."
+      ],
+      "consigli": [
+        "Liberati dalle costrizioni",
+        "Risolvi i problemi con saggezza",
+        "Muoviti verso nuove opportunità"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 25",
+        "Rappresenta l'interazione tra Tuono e Acqua"
+      ]
+    },
+    {
+      "numero": 41,
+      "nome": "41 - Sun",
+      "nomeItaliano": "La Diminuzione",
+      "significato": "La Perdita",
+      "trigrammaSuperiore": "Montagna",
+      "trigrammaInferiore": "Terra",
+      "linee": [
+        "6",
+        "6",
+        "6",
+        "6",
+        "6",
+        "9"
+      ],
+      "descrizione": "L'esagramma 41 - La Diminuzione rappresenta La Perdita.",
+      "immagine": "Montagna sopra Terra",
+      "interpretazione": {
+        "testo": "La Diminuzione (Sun) - La Perdita. Questo esagramma combina le qualità di Montagna sopra e Terra sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin",
+        "Linea 2: Yin",
+        "Linea 3: Yin",
+        "Linea 4: Yin",
+        "Linea 5: Yin",
+        "Linea 6: Yang"
+      ],
+      "consigli": [
+        "Considera l'influenza di Montagna dall'alto",
+        "Considera l'influenza di Terra dal basso",
+        "Rifletti sul significato di La Perdita"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 24",
+        "Rappresenta l'interazione tra Montagna e Terra"
+      ]
+    },
+    {
+      "numero": 42,
+      "nome": "42 - I",
+      "nomeItaliano": "L'Aumento",
+      "significato": "Il Guadagno e la Crescita",
+      "trigrammaSuperiore": "Tuono",
+      "trigrammaInferiore": "Vento",
+      "linee": ["9", "6", "6", "6", "9", "9"],
+      "descrizione": "L'esagramma 42 - L'Aumento rappresenta il guadagno e la crescita, un momento di espansione e sviluppo.",
+      "immagine": "Tuono sopra Vento - L'Aumento",
+      "interpretazione": {
+        "testo": "L'Aumento (I) - Il Guadagno. Questo esagramma combina le qualità di Terra sopra e Montagna sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang - L'inizio dell'aumento. Inizia a crescere.",
+        "Linea 2: Yin - L'aumento si approfondisce. Mantieni l'equilibrio.",
+        "Linea 3: Yin - L'aumento si consolida. Agisci con saggezza.",
+        "Linea 4: Yin - L'aumento si espande. Sviluppa nuove capacità.",
+        "Linea 5: Yang - L'aumento raggiunge il suo apice. Celebra i successi.",
+        "Linea 6: Yang - L'aumento si trasforma. Prepara il futuro."
+      ],
+      "consigli": [
+        "Espandi i tuoi orizzonti",
+        "Sviluppa nuove capacità",
+        "Beneficia delle opportunità"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 41",
+        "Rappresenta l'interazione tra Tuono e Vento"
+      ]
+    },
+    {
+      "numero": 43,
+      "nome": "43 - Kuai",
+      "nomeItaliano": "La Risolutezza",
+      "significato": "La Decisione e la Determinazione",
+      "trigrammaSuperiore": "Lago",
+      "trigrammaInferiore": "Cielo",
+      "linee": [
+        "9",
+        "9",
+        "9",
+        "9",
+        "9",
+        "6"
+      ],
+      "descrizione": "L'esagramma 43 - La Risolutezza rappresenta La Decisione.",
+      "immagine": "Lago sopra Cielo",
+      "interpretazione": {
+        "testo": "La Risolutezza (Kuai) - La Decisione. Questo esagramma combina le qualità di Lago sopra e Cielo sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang",
+        "Linea 2: Yang",
+        "Linea 3: Yang",
+        "Linea 4: Yin",
+        "Linea 5: Yang",
+        "Linea 6: Yang"
+      ],
+      "consigli": [
+        "Considera l'influenza di Lago dall'alto",
+        "Considera l'influenza di Cielo dal basso",
+        "Rifletti sul significato di La Decisione"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 22",
+        "Rappresenta l'interazione tra Lago e Cielo"
+      ]
+    },
+    {
+      "numero": 44,
+      "nome": "44 - Kou",
+      "nomeItaliano": "L'Incontro",
+      "significato": "La Connessione e l'Unione",
+      "trigrammaSuperiore": "Cielo",
+      "trigrammaInferiore": "Lago",
+      "linee": [
+        "6",
+        "9",
+        "9",
+        "9",
+        "9",
+        "9"
+      ],
+      "descrizione": "L'esagramma 44 - L'Incontro rappresenta L'Incontro.",
+      "immagine": "Cielo sopra Lago",
+      "interpretazione": {
+        "testo": "L'Incontro (Kou) - L'Incontro. Questo esagramma combina le qualità di Cielo sopra e Lago sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin",
+        "Linea 2: Yang",
+        "Linea 3: Yang",
+        "Linea 4: Yang",
+        "Linea 5: Yang",
+        "Linea 6: Yang"
+      ],
+      "consigli": [
+        "Considera l'influenza di Cielo dall'alto",
+        "Considera l'influenza di Lago dal basso",
+        "Rifletti sul significato di L'Incontro"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 21",
+        "Rappresenta l'interazione tra Cielo e Lago"
+      ]
+    },
+    {
+      "numero": 45,
+      "nome": "45 - Ts'ui",
+      "nomeItaliano": "La Riunione",
+      "significato": "L'Unione e la Coesione",
+      "trigrammaSuperiore": "Lago",
+      "trigrammaInferiore": "Terra",
+      "linee": ["6", "9", "9", "9", "9", "6"],
+      "descrizione": "L'esagramma 45 - La Riunione rappresenta l'unione e la coesione, un momento per riunire le forze e le energie.",
+      "immagine": "Lago sopra Terra - La Riunione",
+      "interpretazione": {
+        "testo": "La Riunione (Ts'ui) indica un periodo favorevole per l'unione e la coesione. È il momento di riunire le forze, di creare alleanze e di lavorare insieme per obiettivi comuni.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin - L'inizio della riunione. Apri il tuo cuore.",
+        "Linea 2: Yang - La riunione si approfondisce. Mantieni l'unità.",
+        "Linea 3: Yang - La riunione si consolida. Guida con saggezza.",
+        "Linea 4: Yang - La riunione si espande. Condividi le tue risorse.",
+        "Linea 5: Yang - La riunione raggiunge il suo apice. Celebra l'unione.",
+        "Linea 6: Yin - La riunione si trasforma. Adatta le tue relazioni."
+      ],
+      "consigli": [
+        "Riunisci le forze e le energie",
+        "Crea alleanze e collaborazioni",
+        "Lavora insieme per obiettivi comuni"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 46",
+        "Rappresenta l'interazione tra Lago e Terra"
+      ]
+    },
+    {
+      "numero": 46,
+      "nome": "46 - Sheng",
+      "nomeItaliano": "L'Ascesa",
+      "significato": "L'Ascesa",
+      "trigrammaSuperiore": "Vento",
+      "trigrammaInferiore": "Terra",
+      "linee": [
+        "6",
+        "6",
+        "6",
+        "9",
+        "9",
+        "6"
+      ],
+      "descrizione": "L'esagramma 46 - L'Ascesa rappresenta L'Ascesa.",
+      "immagine": "Vento sopra Terra",
+      "interpretazione": {
+        "testo": "L'Ascesa (Sheng) - L'Ascesa. Questo esagramma combina le qualità di Vento sopra e Terra sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin",
+        "Linea 2: Yin",
+        "Linea 3: Yin",
+        "Linea 4: Yang",
+        "Linea 5: Yang",
+        "Linea 6: Yin"
+      ],
+      "consigli": [
+        "Considera l'influenza di Vento dall'alto",
+        "Considera l'influenza di Terra dal basso",
+        "Rifletti sul significato di L'Ascesa"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 19",
+        "Rappresenta l'interazione tra Vento e Terra"
+      ]
+    },
+    {
+      "numero": 47,
+      "nome": "47 - K'un",
+      "nomeItaliano": "L'Esaurimento",
+      "significato": "La Stanchezza e la Limitazione",
+      "trigrammaSuperiore": "Lago",
+      "trigrammaInferiore": "Acqua",
+      "linee": ["6", "9", "6", "9", "9", "6"],
+      "descrizione": "L'esagramma 47 - L'Esaurimento rappresenta la stanchezza e la limitazione, un momento di difficoltà che richiede riposo e recupero.",
+      "immagine": "Lago sopra Acqua - L'Esaurimento",
+      "interpretazione": {
+        "testo": "L'Esaurimento (K'un) indica un periodo di stanchezza e limitazione. È il momento di riconoscere i propri limiti, di riposare e recuperare le energie, di trovare modi per superare le difficoltà con pazienza e saggezza.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin - L'inizio dell'esaurimento. Riconosci i tuoi limiti.",
+        "Linea 2: Yang - L'esaurimento si approfondisce. Mantieni la speranza.",
+        "Linea 3: Yin - L'esaurimento si consolida. Riposa e recupera.",
+        "Linea 4: Yang - L'esaurimento si espande. Cerca supporto.",
+        "Linea 5: Yang - L'esaurimento raggiunge il suo apice. Mantieni la direzione.",
+        "Linea 6: Yin - L'esaurimento si trasforma. Prepara il recupero."
+      ],
+      "consigli": [
+        "Riconosci i tuoi limiti e la necessità di riposo",
+        "Recupera le energie con pazienza",
+        "Cerca supporto quando necessario"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 48",
+        "Rappresenta l'interazione tra Lago e Acqua"
+      ]
+    },
+    {
+      "numero": 48,
+      "nome": "48 - Ching",
+      "nomeItaliano": "Il Pozzo",
+      "significato": "Il Pozzo",
+      "trigrammaSuperiore": "Acqua",
+      "trigrammaInferiore": "Lago",
+      "linee": [
+        "6",
+        "9",
+        "9",
+        "6",
+        "9",
+        "6"
+      ],
+      "descrizione": "L'esagramma 48 - Il Pozzo rappresenta Il Pozzo.",
+      "immagine": "Acqua sopra Lago",
+      "interpretazione": {
+        "testo": "Il Pozzo (Ching) - Il Pozzo. Questo esagramma combina le qualità di Acqua sopra e Lago sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin",
+        "Linea 2: Yang",
+        "Linea 3: Yang",
+        "Linea 4: Yin",
+        "Linea 5: Yang",
+        "Linea 6: Yin"
+      ],
+      "consigli": [
+        "Considera l'influenza di Acqua dall'alto",
+        "Considera l'influenza di Lago dal basso",
+        "Rifletti sul significato di Il Pozzo"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 17",
+        "Rappresenta l'interazione tra Acqua e Lago"
+      ]
+    },
+    {
+      "numero": 49,
+      "nome": "49 - Ko",
+      "nomeItaliano": "La Rivoluzione",
+      "significato": "Il Cambiamento e la Trasformazione",
+      "trigrammaSuperiore": "Lago",
+      "trigrammaInferiore": "Fuoco",
+      "linee": ["9", "6", "9", "9", "6", "6"],
+      "descrizione": "L'esagramma 49 - La Rivoluzione rappresenta il cambiamento e la trasformazione, un momento di profonda rinnovamento.",
+      "immagine": "Lago sopra Fuoco - La Rivoluzione",
+      "interpretazione": {
+        "testo": "La Rivoluzione (Ko) indica un periodo di profondo cambiamento e trasformazione. È il momento di abbandonare il vecchio per abbracciare il nuovo, di rinnovarsi completamente e di creare nuove basi per il futuro.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang - L'inizio della rivoluzione. Inizia il cambiamento.",
+        "Linea 2: Yin - La rivoluzione si approfondisce. Mantieni la direzione.",
+        "Linea 3: Yang - La rivoluzione si consolida. Agisci con determinazione.",
+        "Linea 4: Yang - La rivoluzione si espande. Abbraccia il nuovo.",
+        "Linea 5: Yin - La rivoluzione raggiunge il suo apice. Celebra il rinnovamento.",
+        "Linea 6: Yin - La rivoluzione si trasforma. Prepara il futuro."
+      ],
+      "consigli": [
+        "Abbraccia il cambiamento e la trasformazione",
+        "Abbandona il vecchio per il nuovo",
+        "Crea nuove basi per il futuro"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 50",
+        "Rappresenta l'interazione tra Lago e Fuoco"
+      ]
+    },
+    {
+      "numero": 50,
+      "nome": "50 - Ting",
+      "nomeItaliano": "Il Calderone",
+      "significato": "Il Vaso",
+      "trigrammaSuperiore": "Vento",
+      "trigrammaInferiore": "Fuoco",
+      "linee": [
+        "9",
+        "6",
+        "9",
+        "9",
+        "9",
+        "6"
+      ],
+      "descrizione": "L'esagramma 50 - Il Calderone rappresenta Il Vaso.",
+      "immagine": "Vento sopra Fuoco",
+      "interpretazione": {
+        "testo": "Il Calderone (Ting) - Il Vaso. Questo esagramma combina le qualità di Vento sopra e Fuoco sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang",
+        "Linea 2: Yin",
+        "Linea 3: Yang",
+        "Linea 4: Yang",
+        "Linea 5: Yang",
+        "Linea 6: Yin"
+      ],
+      "consigli": [
+        "Considera l'influenza di Vento dall'alto",
+        "Considera l'influenza di Fuoco dal basso",
+        "Rifletti sul significato di Il Vaso"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 15",
+        "Rappresenta l'interazione tra Vento e Fuoco"
+      ]
+    },
+    {
+      "numero": 51,
+      "nome": "51 - Chen",
+      "nomeItaliano": "Il Tuono",
+      "significato": "L'Attivazione e lo Scuotimento",
+      "trigrammaSuperiore": "Tuono",
+      "trigrammaInferiore": "Tuono",
+      "linee": [
+        "9",
+        "6",
+        "6",
+        "9",
+        "6",
+        "6"
+      ],
+      "descrizione": "L'esagramma 51 - Il Tuono rappresenta L'Eccitazione.",
+      "immagine": "Tuono sopra Tuono",
+      "interpretazione": {
+        "testo": "Il Tuono (Chen) - L'Eccitazione. Questo esagramma combina le qualità di Tuono sopra e Tuono sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang",
+        "Linea 2: Yin",
+        "Linea 3: Yin",
+        "Linea 4: Yang",
+        "Linea 5: Yin",
+        "Linea 6: Yin"
+      ],
+      "consigli": [
+        "Considera l'influenza di Tuono dall'alto",
+        "Considera l'influenza di Tuono dal basso",
+        "Rifletti sul significato di L'Eccitazione"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 14",
+        "Rappresenta l'interazione tra Tuono e Tuono"
+      ]
+    },
+    {
+      "numero": 52,
+      "nome": "52 - Ken",
+      "nomeItaliano": "L'Arresto",
+      "significato": "L'Immobilità",
+      "trigrammaSuperiore": "Montagna",
+      "trigrammaInferiore": "Montagna",
+      "linee": [
+        "6",
+        "6",
+        "9",
+        "6",
+        "6",
+        "9"
+      ],
+      "descrizione": "L'esagramma 52 - L'Arresto rappresenta L'Immobilità.",
+      "immagine": "Montagna sopra Montagna",
+      "interpretazione": {
+        "testo": "L'Arresto (Ken) - L'Immobilità. Questo esagramma combina le qualità di Montagna sopra e Montagna sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin",
+        "Linea 2: Yin",
+        "Linea 3: Yang",
+        "Linea 4: Yin",
+        "Linea 5: Yin",
+        "Linea 6: Yang"
+      ],
+      "consigli": [
+        "Considera l'influenza di Montagna dall'alto",
+        "Considera l'influenza di Montagna dal basso",
+        "Rifletti sul significato di L'Immobilità"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 13",
+        "Rappresenta l'interazione tra Montagna e Montagna"
+      ]
+    },
+    {
+      "numero": 53,
+      "nome": "53 - Chien",
+      "nomeItaliano": "Lo Sviluppo Graduale",
+      "significato": "La Crescita Progressiva",
+      "trigrammaSuperiore": "Montagna",
+      "trigrammaInferiore": "Vento",
+      "linee": ["6", "6", "9", "9", "9", "6"],
+      "descrizione": "L'esagramma 53 - Lo Sviluppo Graduale rappresenta la crescita progressiva, un momento di sviluppo lento ma costante.",
+      "immagine": "Montagna sopra Vento - Lo Sviluppo Graduale",
+      "interpretazione": {
+        "testo": "Lo Sviluppo Graduale (Chien) indica un periodo di crescita progressiva e costante. È il momento di procedere con pazienza e perseveranza, di costruire solide fondamenta per il futuro.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin - L'inizio dello sviluppo. Inizia con pazienza.",
+        "Linea 2: Yin - Lo sviluppo si approfondisce. Mantieni la costanza.",
+        "Linea 3: Yang - Lo sviluppo si consolida. Agisci con determinazione.",
+        "Linea 4: Yin - Lo sviluppo si espande. Costruisci le fondamenta.",
+        "Linea 5: Yang - Lo sviluppo raggiunge il suo apice. Celebra i progressi.",
+        "Linea 6: Yang - Lo sviluppo si trasforma. Prepara il futuro."
+      ],
+      "consigli": [
+        "Procedi con pazienza e perseveranza",
+        "Costruisci solide fondamenta",
+        "Celebra i progressi graduali"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 54",
+        "Rappresenta l'interazione tra Montagna e Vento"
+      ]
+    },
+    {
+      "numero": 54,
+      "nome": "54 - Kuei Mei",
+      "nomeItaliano": "La Ragazza che Sposa",
+      "significato": "La Sposa",
+      "trigrammaSuperiore": "Montagna",
+      "trigrammaInferiore": "Vento",
+      "linee": [
+        "9",
+        "9",
+        "6",
+        "6",
+        "6",
+        "9"
+      ],
+      "descrizione": "L'esagramma 54 - La Ragazza rappresenta La Sposa.",
+      "immagine": "Montagna sopra Vento",
+      "interpretazione": {
+        "testo": "La Ragazza (Kuei Mei) - La Sposa. Questo esagramma combina le qualità di Montagna sopra e Vento sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang",
+        "Linea 2: Yang",
+        "Linea 3: Yin",
+        "Linea 4: Yin",
+        "Linea 5: Yin",
+        "Linea 6: Yang"
+      ],
+      "consigli": [
+        "Considera l'influenza di Montagna dall'alto",
+        "Considera l'influenza di Vento dal basso",
+        "Rifletti sul significato di La Sposa"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 11",
+        "Rappresenta l'interazione tra Montagna e Vento"
+      ]
+    },
+    {
+      "numero": 55,
+      "nome": "55 - Feng",
+      "nomeItaliano": "L'Abbondanza",
+      "significato": "La Prosperità e la Ricchezza",
+      "trigrammaSuperiore": "Tuono",
+      "trigrammaInferiore": "Fuoco",
+      "linee": ["9", "6", "9", "9", "6", "6"],
+      "descrizione": "L'esagramma 55 - L'Abbondanza rappresenta la prosperità e la ricchezza, un momento di grande successo e realizzazione.",
+      "immagine": "Tuono sopra Fuoco - L'Abbondanza",
+      "interpretazione": {
+        "testo": "L'Abbondanza (Feng) indica un periodo di grande prosperità e successo. È il momento di celebrare i risultati raggiunti, di condividere la ricchezza e di prepararsi per il futuro.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang - L'inizio dell'abbondanza. Inizia a prosperare.",
+        "Linea 2: Yin - L'abbondanza si approfondisce. Mantieni l'equilibrio.",
+        "Linea 3: Yang - L'abbondanza si consolida. Agisci con saggezza.",
+        "Linea 4: Yang - L'abbondanza si espande. Condividi la ricchezza.",
+        "Linea 5: Yin - L'abbondanza raggiunge il suo apice. Celebra il successo.",
+        "Linea 6: Yin - L'abbondanza si trasforma. Prepara il futuro."
+      ],
+      "consigli": [
+        "Celebra i successi e la prosperità",
+        "Condividi la ricchezza con gli altri",
+        "Preparati per il futuro"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 56",
+        "Rappresenta l'interazione tra Tuono e Fuoco"
+      ]
+    },
+    {
+      "numero": 56,
+      "nome": "56 - Lu",
+      "nomeItaliano": "Il Viandante",
+      "significato": "Il Viaggio",
+      "trigrammaSuperiore": "Fuoco",
+      "trigrammaInferiore": "Tuono",
+      "linee": [
+        "9",
+        "6",
+        "6",
+        "9",
+        "6",
+        "9"
+      ],
+      "descrizione": "L'esagramma 56 - Il Viandante rappresenta Il Viaggio.",
+      "immagine": "Fuoco sopra Tuono",
+      "interpretazione": {
+        "testo": "Il Viandante (Lu) - Il Viaggio. Questo esagramma combina le qualità di Fuoco sopra e Tuono sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang",
+        "Linea 2: Yin",
+        "Linea 3: Yin",
+        "Linea 4: Yang",
+        "Linea 5: Yin",
+        "Linea 6: Yang"
+      ],
+      "consigli": [
+        "Considera l'influenza di Fuoco dall'alto",
+        "Considera l'influenza di Tuono dal basso",
+        "Rifletti sul significato di Il Viaggio"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 9",
+        "Rappresenta l'interazione tra Fuoco e Tuono"
+      ]
+    },
+    {
+      "numero": 57,
+      "nome": "57 - Sun",
+      "nomeItaliano": "Il Vento",
+      "significato": "La Penetrazione e l'Influenza",
+      "trigrammaSuperiore": "Vento",
+      "trigrammaInferiore": "Vento",
+      "linee": ["6", "9", "9", "6", "9", "6"],
+      "descrizione": "L'esagramma 57 - Il Vento rappresenta la penetrazione e l'influenza, un momento di diffusione e propagazione.",
+      "immagine": "Vento sopra Vento - Il Vento",
+      "interpretazione": {
+        "testo": "Il Vento (Sun) indica un periodo di penetrazione e influenza. È il momento di diffondere le proprie idee e influenze, di adattarsi alle circostanze e di muoversi con flessibilità.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin - L'inizio del vento. Inizia a diffondere.",
+        "Linea 2: Yang - Il vento si approfondisce. Mantieni la direzione.",
+        "Linea 3: Yang - Il vento si consolida. Agisci con flessibilità.",
+        "Linea 4: Yin - Il vento si espande. Adatta le tue azioni.",
+        "Linea 5: Yang - Il vento raggiunge il suo apice. Mantieni l'influenza.",
+        "Linea 6: Yin - Il vento si trasforma. Prepara il prossimo passo."
+      ],
+      "consigli": [
+        "Diffondi le tue idee e influenze",
+        "Adattati alle circostanze con flessibilità",
+        "Mantieni la direzione e l'influenza"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 58",
+        "Rappresenta l'interazione tra Vento e Vento"
+      ]
+    },
+    {
+      "numero": 58,
+      "nome": "58 - Tui",
+      "nomeItaliano": "Il Lago",
+      "significato": "La Gioia",
+      "trigrammaSuperiore": "Lago",
+      "trigrammaInferiore": "Lago",
+      "linee": [
+        "6",
+        "9",
+        "9",
+        "6",
+        "9",
+        "9"
+      ],
+      "descrizione": "L'esagramma 58 - Il Lago rappresenta La Gioia.",
+      "immagine": "Lago sopra Lago",
+      "interpretazione": {
+        "testo": "Il Lago (Tui) - La Gioia. Questo esagramma combina le qualità di Lago sopra e Lago sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin",
+        "Linea 2: Yang",
+        "Linea 3: Yang",
+        "Linea 4: Yin",
+        "Linea 5: Yang",
+        "Linea 6: Yang"
+      ],
+      "consigli": [
+        "Considera l'influenza di Lago dall'alto",
+        "Considera l'influenza di Lago dal basso",
+        "Rifletti sul significato di La Gioia"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 7",
+        "Rappresenta l'interazione tra Lago e Lago"
+      ]
+    },
+    {
+      "numero": 59,
+      "nome": "59 - Huan",
+      "nomeItaliano": "La Dispersione",
+      "significato": "La Dissoluzione e la Liberazione",
+      "trigrammaSuperiore": "Vento",
+      "trigrammaInferiore": "Acqua",
+      "linee": ["6", "9", "6", "6", "9", "6"],
+      "descrizione": "L'esagramma 59 - La Dispersione rappresenta la dissoluzione e la liberazione, un momento di scioglimento e rinnovamento.",
+      "immagine": "Vento sopra Acqua - La Dispersione",
+      "interpretazione": {
+        "testo": "La Dispersione (Huan) indica un periodo di dissoluzione e liberazione. È il momento di sciogliere i blocchi, di liberarsi dalle costrizioni e di creare nuove connessioni.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin - L'inizio della dispersione. Inizia a sciogliere.",
+        "Linea 2: Yang - La dispersione si approfondisce. Mantieni la direzione.",
+        "Linea 3: Yin - La dispersione si consolida. Agisci con saggezza.",
+        "Linea 4: Yin - La dispersione si espande. Liberati dalle costrizioni.",
+        "Linea 5: Yang - La dispersione raggiunge il suo apice. Crea nuove connessioni.",
+        "Linea 6: Yin - La dispersione si trasforma. Prepara il rinnovamento."
+      ],
+      "consigli": [
+        "Sciogli i blocchi e le costrizioni",
+        "Liberati dalle vecchie strutture",
+        "Crea nuove connessioni e opportunità"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 60",
+        "Rappresenta l'interazione tra Vento e Acqua"
+      ]
+    },
+    {
+      "numero": 60,
+      "nome": "60 - Chieh",
+      "nomeItaliano": "La Limitazione",
+      "significato": "La Moderazione e il Controllo",
+      "trigrammaSuperiore": "Acqua",
+      "trigrammaInferiore": "Vento",
+      "linee": [
+        "9",
+        "9",
+        "6",
+        "6",
+        "9",
+        "6"
+      ],
+      "descrizione": "L'esagramma 60 - La Limitazione rappresenta la moderazione e il controllo, un momento di equilibrio e disciplina.",
+      "immagine": "Acqua sopra Vento",
+      "interpretazione": {
+        "testo": "La Limitazione (Chieh) - La Moderazione. Questo esagramma combina le qualità di Acqua sopra e Vento sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang",
+        "Linea 2: Yang",
+        "Linea 3: Yin",
+        "Linea 4: Yin",
+        "Linea 5: Yang",
+        "Linea 6: Yin"
+      ],
+      "consigli": [
+        "Considera l'influenza di Acqua dall'alto",
+        "Considera l'influenza di Vento dal basso",
+        "Rifletti sul significato di La Moderazione"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 5",
+        "Rappresenta l'interazione tra Acqua e Vento"
+      ]
+    },
+    {
+      "numero": 61,
+      "nome": "61 - Chung Fu",
+      "nomeItaliano": "La Verità",
+      "significato": "La Fiducia",
+      "trigrammaSuperiore": "Vento",
+      "trigrammaInferiore": "Lago",
+      "linee": [
+        "6",
+        "9",
+        "9",
+        "9",
+        "9",
+        "6"
+      ],
+      "descrizione": "L'esagramma 61 - La Verità rappresenta La Fiducia.",
+      "immagine": "Vento sopra Lago",
+      "interpretazione": {
+        "testo": "La Verità (Chung Fu) - La Fiducia. Questo esagramma combina le qualità di Vento sopra e Lago sotto.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin",
+        "Linea 2: Yang",
+        "Linea 3: Yang",
+        "Linea 4: Yang",
+        "Linea 5: Yang",
+        "Linea 6: Yin"
+      ],
+      "consigli": [
+        "Considera l'influenza di Vento dall'alto",
+        "Considera l'influenza di Lago dal basso",
+        "Rifletti sul significato di La Fiducia"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 4",
+        "Rappresenta l'interazione tra Vento e Lago"
+      ]
+    },
+    {
+      "numero": 62,
+      "nome": "62 - Hsiao Kuo",
+      "nomeItaliano": "La Preponderanza del Piccolo",
+      "significato": "La Modestia e la Prudenza",
+      "trigrammaSuperiore": "Tuono",
+      "trigrammaInferiore": "Montagna",
+      "linee": ["6", "6", "9", "9", "6", "6"],
+      "descrizione": "L'esagramma 62 - La Preponderanza del Piccolo rappresenta la modestia e la prudenza, un momento di attenzione ai dettagli.",
+      "immagine": "Tuono sopra Montagna - La Preponderanza del Piccolo",
+      "interpretazione": {
+        "testo": "La Preponderanza del Piccolo (Hsiao Kuo) indica un periodo di modestia e prudenza. È il momento di prestare attenzione ai dettagli, di agire con cautela e di riconoscere l'importanza delle piccole cose.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin - L'inizio della preponderanza. Inizia con modestia.",
+        "Linea 2: Yin - La preponderanza si approfondisce. Mantieni la prudenza.",
+        "Linea 3: Yang - La preponderanza si consolida. Agisci con saggezza.",
+        "Linea 4: Yang - La preponderanza si espande. Presta attenzione ai dettagli.",
+        "Linea 5: Yin - La preponderanza raggiunge il suo apice. Celebra la modestia.",
+        "Linea 6: Yin - La preponderanza si trasforma. Prepara il futuro."
+      ],
+      "consigli": [
+        "Presta attenzione ai dettagli",
+        "Agisci con cautela",
+        "Riconosci l'importanza delle piccole cose"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 61",
+        "Rappresenta l'interazione tra Tuono e Montagna"
+      ]
+    },
+    {
+      "numero": 63,
+      "nome": "63 - Chi Chi",
+      "nomeItaliano": "Il Compimento",
+      "significato": "Il Completamento e la Perfezione",
+      "trigrammaSuperiore": "Acqua",
+      "trigrammaInferiore": "Fuoco",
+      "linee": ["9", "6", "9", "6", "9", "6"],
+      "descrizione": "L'esagramma 63 - Il Compimento rappresenta il completamento e la perfezione, un momento di realizzazione e successo.",
+      "immagine": "Acqua sopra Fuoco - Il Compimento",
+      "interpretazione": {
+        "testo": "Il Compimento (Chi Chi) indica un periodo di completamento e perfezione. È il momento di celebrare i successi, di consolidare i risultati e di prepararsi per nuovi inizi.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yang - L'inizio del compimento. Inizia a celebrare.",
+        "Linea 2: Yin - Il compimento si approfondisce. Mantieni l'equilibrio.",
+        "Linea 3: Yang - Il compimento si consolida. Agisci con saggezza.",
+        "Linea 4: Yin - Il compimento si espande. Condividi i successi.",
+        "Linea 5: Yang - Il compimento raggiunge il suo apice. Celebra la perfezione.",
+        "Linea 6: Yin - Il compimento si trasforma. Prepara il futuro."
+      ],
+      "consigli": [
+        "Celebra i tuoi successi",
+        "Consolida i risultati",
+        "Preparati per nuovi inizi"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 64",
+        "Rappresenta l'interazione tra Acqua e Fuoco"
+      ]
+    },
+    {
+      "numero": 64,
+      "nome": "64 - Wei Chi",
+      "nomeItaliano": "L'Incompiuto",
+      "significato": "L'Incompletezza e la Potenzialità",
+      "trigrammaSuperiore": "Fuoco",
+      "trigrammaInferiore": "Acqua",
+      "linee": ["6", "9", "6", "9", "6", "9"],
+      "descrizione": "L'esagramma 64 - L'Incompiuto rappresenta l'incompletezza e la potenzialità, un momento di possibilità e opportunità.",
+      "immagine": "Fuoco sopra Acqua - L'Incompiuto",
+      "interpretazione": {
+        "testo": "L'Incompiuto (Wei Chi) indica un periodo di incompletezza e potenzialità. È il momento di riconoscere le opportunità, di prepararsi per il futuro e di mantenere la flessibilità per il cambiamento.",
+        "fonte": "I Ching - Il Libro dei Mutamenti"
+      },
+      "lineeInterpretazione": [
+        "Linea 1: Yin - L'inizio dell'incompiuto. Riconosci le possibilità.",
+        "Linea 2: Yang - L'incompiuto si approfondisce. Mantieni la flessibilità.",
+        "Linea 3: Yin - L'incompiuto si consolida. Agisci con saggezza.",
+        "Linea 4: Yang - L'incompiuto si espande. Cerca nuove opportunità.",
+        "Linea 5: Yin - L'incompiuto raggiunge il suo apice. Mantieni la direzione.",
+        "Linea 6: Yang - L'incompiuto si trasforma. Prepara il completamento."
+      ],
+      "consigli": [
+        "Riconosci le opportunità",
+        "Preparati per il futuro",
+        "Mantieni la flessibilità per il cambiamento"
+      ],
+      "relazioni": [
+        "Complementare all'esagramma 63",
+        "Rappresenta l'interazione tra Fuoco e Acqua"
+      ]
+    }
+  ]
+}
